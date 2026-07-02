@@ -23,16 +23,13 @@ A simple and modern **Random Color Generator** built using **HTML, CSS, and Java
 - JavaScript (ES6)
 
 ---
+<h2>📸 Preview</h2>
 
-## 📸 Preview
+<img src="./images/indigocolor.png" alt="Random Color Generator" width="800">
+<img src="./images/pinkcolor.png" alt="Random Color Generator" width="800">
+<img src="./images/greencolor.png" alt="Random Color Generator" width="800">
+<img src="./images/yellowcolor.png" alt="Random Color Generator" width="800">
 
-
-
-```md
-![Project Screenshot](./images/indigocolor.png)
-![Project Screenshot](./images/pinkcolor.png)
-![Project Screenshot](./images/greencolor.png)
-![Project Screenshot](./images/yellowcolor.png)
 ```
 
 ---
