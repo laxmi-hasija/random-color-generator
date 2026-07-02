@@ -40,7 +40,7 @@ A simple and modern **Random Color Generator** built using **HTML, CSS, and Java
 ## 🚀 Live Demo
 
 🔗 **Live Website:**  
-https://your-live-demo-link.com
+
 
 ---
 
@@ -54,7 +54,7 @@ Random-Color-Generator/
 ├── script.js
 ├── README.md
 └── images/
-    └── screenshot.png
+    └── screenshots.png
 ```
 
 ---
