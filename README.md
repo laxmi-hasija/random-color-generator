@@ -1,1 +1,103 @@
+# 🎨 Random Color Generator
 
+A simple and modern **Random Color Generator** built using **HTML, CSS, and JavaScript**. Generate random colors instantly, preview them in real time, and copy their HEX or RGB values with a single click.
+
+---
+
+## ✨ Features
+
+- 🎲 Generate random colors instantly
+- 🎨 Live color preview
+- 📋 Copy HEX color code to clipboard
+- 📋 Copy RGB color value to clipboard
+- 💡 Helpful tip for users
+- 📱 Fully responsive design
+- ⚡ Clean, modern, and lightweight UI
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+---
+
+## 📸 Preview
+
+
+
+```md
+![Project Screenshot](./images/indigocolor.png)
+![Project Screenshot](./images/pinkcolor.png)
+![Project Screenshot](./images/greencolor.png)
+![Project Screenshot](./images/yellowcolor.png)
+```
+
+---
+
+## 🚀 Live Demo
+
+🔗 **Live Website:**  
+https://your-live-demo-link.com
+
+---
+
+## 📂 Project Structure
+
+```
+Random-Color-Generator/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── images/
+    └── screenshot.png
+```
+
+---
+
+## 🎯 How to Use
+
+1. Open the website.
+2. Click the **Generate New Color** button.
+3. A random color is generated instantly.
+4. View the corresponding **HEX** and **RGB** values.
+5. Click the clipboard icon beside HEX or RGB to copy the value.
+
+---
+
+## 🔮 Future Enhancements
+
+- ❤️ Favorite colors
+- 📜 Color history
+- 🌈 Gradient generator
+- 🌙 Dark mode
+- 🎨 Color palette generation
+- 📤 Share colors with others
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
+---
+
+## 👩‍💻 Author
+
+**Laxmi**
+
+GitHub: https://github.com/laxmi-hasija
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+Made with ❤️ using **HTML, CSS & JavaScript**.
