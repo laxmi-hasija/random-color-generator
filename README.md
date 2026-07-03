@@ -36,7 +36,7 @@ A simple and modern **Random Color Generator** built using **HTML, CSS, and Java
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:**  
+🔗 **Live Website: https://www.linkedin.com/posts/laxmihasija_webdevelopment-frontenddevelopment-html-ugcPost-7478658092059029505-Xp9w/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFn3EmIB5oRmapx5UqZFHyf2Jb7n6Jb4ZPs**  
 
 
 ---
